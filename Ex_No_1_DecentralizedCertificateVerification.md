@@ -40,10 +40,7 @@ High-Level Overview:
 ● Shows how blockchain can be used in education and credential verification.
 ```
 # Output:
-<img width="1920" height="1080" alt="Screenshot 2026-11-02 150923" src="https://github.com/user-attachments/assets/59bcb402-1591-44d2-a88f-3d1d07d807eb" />
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-03 090815" src="https://github.com/user-attachments/assets/f55a30f5-4c6c-438f-b16e-33a2ad40beed" />
-
+<img width="1917" height="827" alt="image" src="https://github.com/user-attachments/assets/d60e098e-14e1-4bc0-bbd1-e1979fd3c9b1" />
 
 
 # Result:
